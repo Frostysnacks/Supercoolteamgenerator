@@ -13,7 +13,9 @@ Use node index.js in the command line and then enter the information for the Man
 
 ## Mock up
 
-![alt text](https://github.com/Frostysnacks/)
+![alt text](https://github.com/Frostysnacks/Supercoolteamgenerator/blob/main/media/teamgenpage.PNG)
+
+![alt text](https://github.com/Frostysnacks/Supercoolteamgenerator/blob/main/media/teamgenterminal.PNG)
 
 
 
