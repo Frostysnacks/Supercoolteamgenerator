@@ -17,6 +17,8 @@ Use node index.js in the command line and then enter the information for the Man
 
 ![alt text](https://github.com/Frostysnacks/Supercoolteamgenerator/blob/main/media/teamgenterminal.PNG)
 
+Video link https://drive.google.com/file/d/199vb4aoMdTunB3Ipb53p0wYTsKdGs2Te/view?usp=sharing
+
 
 
 ## Live Page
